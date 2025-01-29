@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930113471820",
+    "project_id": "safewalk-ad943",
+    "storage_bucket": "safewalk-ad943.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930113471820:android:7bd2cf631e4c2382663be9",
+        "android_client_info": {
+          "package_name": "com.android.sheguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWAl7W_ZMagsKKw7HbVWSHgTTDa1fsAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
